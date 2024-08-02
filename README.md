@@ -1,4 +1,5 @@
 # Blinkit Sales Analysis Dashboard
+![Blinkit Sales Analysis Dashboard](blinkit.png)
 
 ## Overview
 
@@ -22,6 +23,6 @@ This project contains a Power BI dashboard designed to analyze sales data for Bl
 
 ## How to Use
 
-1. **Clone the Repository**: Clone this repository to your local machine using `git clone <repository-url>`.
+1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/NarasimhaSwamy202/blinkit-analysis-using-PowerBI.git`.
 2. **Open in Power BI**: Open the Power BI file in your Power BI Desktop to explore and interact with the data visualizations.
 3. **Data Filters**: Use the filters on the left panel to view data specific to certain outlet location types, outlet sizes, or item types.
